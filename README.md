@@ -1,1 +1,2 @@
-Τα αρχεία http://yv4t64zn7vd7od3r3aurnsxqjnr5uparmz46gt5umvmm4y5zbifhuoyd.onion/%CE%91%CF%82%20%CF%80%CE%B1%CE%AF%CE%BE%CE%BF%CF%85%CE%BC%CE%B5.htm (Ας παίξουμε) και http://yv4t64zn7vd7od3r3aurnsxqjnr5uparmz46gt5umvmm4y5zbifhuoyd.onion/PLAY.htm νομίξω πως έχουν δυσλειτουργίες που δυσκολεύομαι να διορθώσω. Επαιδή είμαι αρχάριος παρακαλώ να βάζετε σχόλια που εξηγούν αναλυτικά τις αλλαγές σας.
+Οι ιστοσελίδες βρίσκονται στο http://yv4t64zn7vd7od3r3aurnsxqjnr5uparmz46gt5umvmm4y5zbifhuoyd.onion/ και μπορείτε να τις επισκεφθείτε με Tor Browser (torproject.org/download/alpha).
+Παρακαλώ να βάζετε σχόλια εξηγώντας αναλυτικά τας αλλαγάς σας (είμαι αρχάριος).
